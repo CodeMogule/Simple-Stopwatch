@@ -1,0 +1,76 @@
+.num-container{
+   margin: 175px
+}
+
+#stopwatch-btn{
+    position: absolute;
+    .btn-container{
+        position: relative;
+        bottom: 7rem;
+        left: 3rem;
+        display: flex;
+        margin: 30px;
+        font-size: 70%;
+
+        div{
+            margin: 20px;
+            
+        }
+
+        .btn-stop{
+            cursor: pointer;
+            transition: 0.5s;
+            -webkit-transition: 0.5s;
+            -moz-transition: 0.5s;
+            -ms-transition: 0.5s;
+            -o-transition: 0.5s;
+            border: 2px solid #fff;
+            border-radius: 30%;
+            -webkit-border-radius: 30%;
+            -moz-border-radius: 30%;
+            -ms-border-radius: 30%;
+            -o-border-radius: 30%;
+&:hover{
+                background-color:#D54C4C ;
+            }
+        }
+
+        .btn-reset{
+            transition: 0.5s;
+            -webkit-transition: 0.5s;
+            -moz-transition: 0.5s;
+            -ms-transition: 0.5s;
+            -o-transition: 0.5s;
+            border: 2px solid #fff;
+            border-radius: 30%;
+            -webkit-border-radius: 30%;
+            -moz-border-radius: 30%;
+            -ms-border-radius: 30%;
+            -o-border-radius: 30%;
+    &:hover{
+                background-color:#ECD662 ;
+            }
+        }
+    
+        .btn-start{
+            cursor: pointer;
+            transition: 0.5s;
+            -webkit-transition: 0.5s;
+            -moz-transition: 0.5s;
+            -ms-transition: 0.5s;
+            -o-transition: 0.5s;
+            border: 2px solid #fff;
+            border-radius: 30%;
+            -webkit-border-radius: 30%;
+            -moz-border-radius: 30%;
+            -ms-border-radius: 30%;
+            -o-border-radius: 30%;
+    &:hover{
+                background-color:#5D8233 ;
+            }
+        }
+    }
+
+   
+    
+}

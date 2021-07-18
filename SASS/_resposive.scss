@@ -1,0 +1,182 @@
+@media only screen and (min-width:320px) and (max-width:374px){
+    #stopwatch-timer{
+        padding-top: 30%;
+    }
+    .num-container{
+   font-size: 120%;
+   transform: translateX(-55%) !important;
+   -webkit-transform: translateX(-55%) !important;
+   -moz-transform: translateX(-55%) !important;
+   -ms-transform: translateX(-55%) !important;
+   -o-transform: translateX(-55%) !important;
+   display: inline-block;
+}
+
+.btn-container{
+    transform: translateX(-30%) !important;
+    -webkit-transform: translateX(-30%) !important;
+    -moz-transform: translateX(-30%) !important;
+    -ms-transform: translateX(-30%) !important;
+    -o-transform: translateX(-30%) !important;
+    div{
+        font-size: 80%;
+    }
+}
+}
+
+@media only screen and (min-width:375px) and (max-width:499px){
+    #stopwatch-timer{
+        padding-top: 10%;
+    }
+    .num-container{
+        font-size: 110%;
+        transform: translateX(-15%) !important;
+        -webkit-transform: translateX(-15%) !important;
+        -moz-transform: translateX(-15%) !important;
+        -ms-transform: translateX(-15%) !important;
+        -o-transform: translateX(-15%) !important;
+        display: inline-block;
+}
+     
+     .btn-container{
+         transform: translateX(-17%) !important;
+         -webkit-transform: translateX(-17%) !important;
+         -moz-transform: translateX(-17%) !important;
+         -ms-transform: translateX(-17%) !important;
+         -o-transform: translateX(-17%) !important;
+div{
+             font-size: 80%;
+         }
+     }
+}
+
+@media only screen and (min-width:500px) and (max-width:600px){
+    #stopwatch-timer{
+        padding-top: 10%;
+    }
+    .num-container{
+        font-size: 120%;
+        transform: translateX(20%) !important;
+        -webkit-transform: translateX(20%) !important;
+        -moz-transform: translateX(20%) !important;
+        -ms-transform: translateX(20%) !important;
+        -o-transform: translateX(20%) !important;
+        display: inline-block;
+}
+     
+     .btn-container{
+         transform: translateX(-4%) !important;
+         -webkit-transform: translateX(-4%) !important;
+         -moz-transform: translateX(-4%) !important;
+         -ms-transform: translateX(-4%) !important;
+         -o-transform: translateX(-4%) !important;
+div{
+             font-size: 90%;
+         }
+     }
+}
+
+
+@media only screen and (min-width:600px) and (max-width:768px){
+    #stopwatch-timer{
+        padding-top: 10%;
+    }
+    .num-container{
+        font-size: 125%;
+        transform: translateX(110%) !important;
+        -webkit-transform: translateX(110%) !important;
+        -moz-transform: translateX(110%) !important;
+        -ms-transform: translateX(110%) !important;
+        -o-transform: translateX(110%) !important;
+        display: inline-block;
+}
+     
+     .btn-container{
+         transform: translateX(25%) !important;
+         -webkit-transform: translateX(25%) !important;
+         -moz-transform: translateX(25%) !important;
+         -ms-transform: translateX(25%) !important;
+         -o-transform: translateX(25%) !important;
+div{
+             font-size: 100%;
+         }
+     }
+}
+
+@media only screen and (min-width:768px) and (max-width:993px){
+    #stopwatch-timer{
+        padding-top: 10%;
+    }
+    .num-container{
+        font-size: 130%;
+        transform: translateX(180%) !important;
+        -webkit-transform: translateX(180%) !important;
+        -moz-transform: translateX(180%) !important;
+        -ms-transform: translateX(180%) !important;
+        -o-transform: translateX(180%) !important;
+        display: inline-block;
+}
+     
+     .btn-container{
+         transform: translateX(55%) !important;
+         -webkit-transform: translateX(55%) !important;
+         -moz-transform: translateX(55%) !important;
+         -ms-transform: translateX(55%) !important;
+         -o-transform: translateX(55%) !important;
+div{
+             font-size: 100%;
+         }
+     }
+}
+
+@media only screen and (min-width:993px) and (max-width:1200px){
+    #stopwatch-timer{
+        padding-top: 10%;
+    }
+    .num-container{
+        font-size: 150%;
+        transform: translateX(200%) !important;
+        -webkit-transform: translateX(200%) !important;
+        -moz-transform: translateX(200%) !important;
+        -ms-transform: translateX(200%) !important;
+        -o-transform: translateX(200%) !important;
+        display: inline-block;
+}
+     
+     .btn-container{
+         transform: translateX(75%) !important;
+         -webkit-transform: translateX(75%) !important;
+         -moz-transform: translateX(75%) !important;
+         -ms-transform: translateX(75%) !important;
+         -o-transform: translateX(75%) !important;
+div{
+             font-size: 100%;
+         }
+     }
+}
+
+@media only screen and (min-width:1200px){
+    #stopwatch-timer{
+        padding-top: 5%;
+    }
+    .num-container{
+        font-size: 200%;
+        transform: translateX(18.5rem) !important;
+        -webkit-transform: translateX(18.5rem) !important;
+        -moz-transform: translateX(18.5rem) !important;
+        -ms-transform: translateX(18.5rem) !important;
+        -o-transform: translateX(18.5rem) !important;
+        display: inline-block;
+}
+     
+     .btn-container{
+         transform: translateX(125%) !important;
+         -webkit-transform: translateX(125%) !important;
+         -moz-transform: translateX(125%) !important;
+         -ms-transform: translateX(125%) !important;
+         -o-transform: translateX(125%) !important;
+div{
+             font-size: 110%;
+         }
+     }
+}

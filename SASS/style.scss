@@ -1,0 +1,17 @@
+@import './stopwatch';
+@import './resposive';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    background-color: #2C2E43;
+    font-family: 'Bebas Neue', cursive;
+    color: #fff;
+    text-rendering: optimizeLegibility;
+    font-size: 25px;
+    overflow: hidden;
+}
